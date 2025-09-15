@@ -11,7 +11,7 @@ This project implements a Convolutional Neural Network (CNN) to classify images 
 - [Model Architecture](#model-architecture)
 - [Training](#training)
 - [Evaluation](#evaluation)
-- [Results](#results)<img width="678" height="663" alt="image" src="https://github.com/user-attachments/assets/97be37f8-c843-48d6-b2e1-ef2013bd51f5" />
+- [Results]
 
 - [Reproducibility](#reproducibility)
 - [License](#license)
