@@ -11,7 +11,8 @@ This project implements a Convolutional Neural Network (CNN) to classify images 
 - [Model Architecture](#model-architecture)
 - [Training](#training)
 - [Evaluation](#evaluation)
-- [Results](#results)
+- [Results](#results)<img width="678" height="663" alt="image" src="https://github.com/user-attachments/assets/97be37f8-c843-48d6-b2e1-ef2013bd51f5" />
+
 - [Reproducibility](#reproducibility)
 - [License](#license)
 
@@ -45,5 +46,7 @@ The **CIFAR-10 dataset** is used in this project, which contains:
 
 Dataset is automatically downloaded via `tensorflow.keras.datasets`.
 
+
 atplotlib numpy
 
+<img width="678" height="663" alt="image" src="https://github.com/user-attachments/assets/4130792b-582d-454f-8ef6-bf242e856e7e" />
